@@ -54,7 +54,7 @@ streamlit run app.py
 
 ## 📋 Descripción de las Partes
 
-### 📝 Parte 01 — Evaluación Conceptual (Quiz Teórico) · 25 pts
+### 📝 Parte 01 — Evaluación Conceptual (Quiz Teórico) 
 
 Respuestas técnicas a 5 preguntas conceptuales sobre NLP y LLMs:
 
@@ -68,7 +68,7 @@ Respuestas técnicas a 5 preguntas conceptuales sobre NLP y LLMs:
 
 ---
 
-### ⚗️ Parte 02 — Laboratorio de Parámetros · 30 pts
+### ⚗️ Parte 02 — Laboratorio de Parámetros 
 
 Pestaña interactiva para experimentar con los hiperparámetros de generación de texto.
 
@@ -114,7 +114,7 @@ Prompt fijo: *"Explica el concepto de atención en transformers"*
 
 ---
 
-### 📐 Parte 03 — Métricas de Similitud · 30 pts
+### 📐 Parte 03 — Métricas de Similitud 
 
 Pestaña para comparar cuantitativamente un texto de referencia (*ground truth*) contra la respuesta generada por el LLM.
 
@@ -152,7 +152,7 @@ El radar chart muestra las 5 métricas normalizadas al rango [0,1] para comparac
 
 ---
 
-### 🤖 Parte 04 — Agente Conversacional: TutorML · 15 pts
+### 🤖 Parte 04 — Agente Conversacional: TutorML 
 
 Agente conversacional especializado en **Machine Learning**, con personalidad definida, memoria de conversación y métricas de producción en tiempo real.
 
