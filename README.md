@@ -98,7 +98,7 @@ Prompt fijo: *"Explica el concepto de atención en transformers"*
 
 **Visualización:** Gráficas Plotly en columnas paralelas (`st.columns(4)`) + campo de observaciones documentadas.
 
-#### 🔬 Análisis de Parámetros
+####  Análisis de Parámetros
 
 > **Temperatura baja (0.1):** El modelo converge hacia las predicciones de mayor probabilidad, generando respuestas coherentes, precisas y con baja variabilidad entre ejecuciones. Ideal para tareas que requieren exactitud factual.
 
@@ -194,6 +194,8 @@ indícalo amablemente y redirige la conversación.
 ---
 
 ##  Capturas de Pantalla
+
+<img width="1640" height="684" alt="Captura_1" src="https://github.com/user-attachments/assets/c5e5a3de-87c7-4b26-93ed-4576fb644ecc" />
 
 > Las capturas se agregarán tras ejecutar la aplicación. Se incluirán vistas de:
 > - Panel de parámetros con las 4 configuraciones comparativas
