@@ -112,7 +112,7 @@ Prompt fijo: *"Explica el concepto de atención en transformers"*
 
 ---
 
-### 📐 Parte 03 — Métricas de Similitud 
+###  Parte 03 — Métricas de Similitud 
 
 Pestaña para comparar cuantitativamente un texto de referencia (*ground truth*) contra la respuesta generada por el LLM.
 
@@ -150,7 +150,7 @@ El radar chart muestra las 5 métricas normalizadas al rango [0,1] para comparac
 
 ---
 
-### 🤖 Parte 04 — Agente Conversacional: TutorML 
+###  Parte 04 — Agente Conversacional: TutorML 
 
 Agente conversacional especializado en **Machine Learning**, con personalidad definida, memoria de conversación y métricas de producción en tiempo real.
 
@@ -180,7 +180,7 @@ indícalo amablemente y redirige la conversación.
 | Controles en sidebar | Sliders de temperatura y max_tokens en tiempo real |
 | Historial de métricas | Gráfica de línea Plotly por turno |
 
-#### 📊 Métricas de Producción (tiempo real)
+####  Métricas de Producción (tiempo real)
 
 | Métrica | Cálculo | Descripción |
 |---------|---------|-------------|
@@ -193,7 +193,7 @@ indícalo amablemente y redirige la conversación.
 
 ---
 
-## 📸 Capturas de Pantalla
+##  Capturas de Pantalla
 
 > Las capturas se agregarán tras ejecutar la aplicación. Se incluirán vistas de:
 > - Panel de parámetros con las 4 configuraciones comparativas
