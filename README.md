@@ -21,7 +21,7 @@ nlp_llms_parcial/
 ├── requirements.txt          # Dependencias del proyecto
 ├── .gitignore                # Excluye secrets.toml y archivos sensibles
 ├── .streamlit/
-│   └── secrets.toml          #  API Key — NO subir al repositorio
+│   └── secrets.toml          
 └── README.md
 ```
 
@@ -47,8 +47,6 @@ TOML
 # 4. Ejecutar la aplicación
 streamlit run app.py
 ```
-
->  **Seguridad:** El archivo `secrets.toml` está incluido en `.gitignore`. Nunca exponga su API Key en el repositorio.
 
 ---
 
