@@ -195,13 +195,27 @@ indícalo amablemente y redirige la conversación.
 
 ##  Capturas de Pantalla
 
+1. Laboratorio de parámetros:
+   
 <img width="1640" height="684" alt="Captura_1" src="https://github.com/user-attachments/assets/c5e5a3de-87c7-4b26-93ed-4576fb644ecc" />
 
-> Las capturas se agregarán tras ejecutar la aplicación. Se incluirán vistas de:
-> - Panel de parámetros con las 4 configuraciones comparativas
-> - Radar chart de métricas de similitud
-> - Conversación con TutorML y panel de métricas en tiempo real
-> - Gráfica de historial de métricas por turno
+<img width="1624" height="266" alt="Captura_2" src="https://github.com/user-attachments/assets/b49e8fef-f3d0-445c-b0d0-9a6a7e0877eb" />
+
+2. Métricas de similitud:
+
+<img width="1637" height="619" alt="Captura_3" src="https://github.com/user-attachments/assets/4b26fdba-235e-41b1-a322-931508c846aa" />
+
+<img width="1610" height="469" alt="Captura_4" src="https://github.com/user-attachments/assets/7a41244e-8ae8-45b0-a600-98fc36914917" />
+
+3. Agente conversacional:
+
+<img width="1638" height="418" alt="Captura_5" src="https://github.com/user-attachments/assets/e62be513-b773-4628-9408-35aeea3c16cd" />
+
+<img width="1616" height="572" alt="Captura_6" src="https://github.com/user-attachments/assets/f34a611a-4538-485a-86fc-4d7bfb0dccef" />
+
+<img width="1615" height="812" alt="Captura_7" src="https://github.com/user-attachments/assets/acd3d3fa-118a-460b-adce-0377d6d410d6" />
+
+<img width="1646" height="475" alt="Captura_8" src="https://github.com/user-attachments/assets/019881c4-0fc9-433b-9e36-219a5e066811" />
 
 ---
 
